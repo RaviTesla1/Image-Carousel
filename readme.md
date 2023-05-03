@@ -27,9 +27,9 @@ This is a Image Carousel where user can click on the next button move to the nex
 - Hosted on Netlify and set up in production
 
 ## Demo :
-![](./Image/Project_1.pngn)
+![Image](./Images/127.0.0.1_5500_%20(1).png)
 
- # [Live Link](https://accordian-p07.netlify.appnn)
+ # [Live Link](image-corousel.netlify.app)
 
 ## 🤔 What i have learnt By working on this project
 1. How to use position absolute .
