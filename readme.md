@@ -27,16 +27,17 @@ This is a Image Carousel where user can click on the next button move to the nex
 - Hosted on Netlify and set up in production
 
 ## Demo :
-![Image](./Images/127.0.0.1_5500_%20(1).png)
+![Image](./Images/img.png)
 
  # [Live Link](image-corousel.netlify.app)
+ # [Source Code](https://github.com/RaviTesla1/Image-Carousel)
 
 ## 🤔 What i have learnt By working on this project
 1. How to use position absolute .
 2. How to use tranlate function to create animations .
 ## 😌 Honest Time to finish the project
 
-I have taken nearly 8 hours to complete this project .
+I have taken nearly 2 hours to complete this project .
 
 ## 👀 Feedback
 If you have any feedback, please reach out to us at ravibatalvi55@gmail.com
